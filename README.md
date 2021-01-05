@@ -1,8 +1,9 @@
 # 一个简单的下雪和下雨效果
 ## 想看雪吗
 ```
-step1: yarn
-step2: yarn start 
+step1: npm install
+step2: npm run build
+step3: dist 打开 index.html
 
 ```
 
